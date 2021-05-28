@@ -91,6 +91,8 @@ body {
   font-weight: 700;
   opacity: 1;
   padding-block-end: .3em;
+  display: flex;
+  align-items: center;
 }
 
 .per-month {
