@@ -93,6 +93,7 @@ body {
   padding-block-end: .3em;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .per-month {
