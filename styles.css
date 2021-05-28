@@ -43,6 +43,7 @@ body {
   display: grid;
   width: 90%;
   margin-block: 4rem;
+  box-shadow: 0 .6em .6em -.4em lightgrey;
 }
 
 /* HERO SECTION */
