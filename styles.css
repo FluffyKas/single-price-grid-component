@@ -93,7 +93,7 @@ body {
   padding-block-end: .3em;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .per-month {
@@ -161,6 +161,10 @@ body {
 
   .subscribe {
     text-align: center;
+  }
+
+  .subscribe-fee {
+    justify-content: center;
   }
   
 }
