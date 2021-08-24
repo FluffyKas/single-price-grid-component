@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://fluffykas.github.io/single-price-grid-component/)
+[Solution](https://fluffykas.github.io/single-price-grid-component/)
 
 ### Built with
 
