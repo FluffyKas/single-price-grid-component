@@ -2,6 +2,8 @@
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+As most of my work, this solution is being constantly updated as I learn new things and find better solutions for my problems. :)
+
 ## Table of contents
 
 - [Overview](#overview)
