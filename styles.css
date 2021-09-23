@@ -129,6 +129,23 @@ body {
   transform: translateY(-0.15em);
 }
 
+.subscribe__button:focus {
+  /* Provide a fallback style for browsers
+     that don't support :focus-visible */
+  outline: 3px dotted white;
+}
+
+.subscribe__button:not(:focus-visible) {      
+  /* Remove the focus indicator on mouse-focus for browsers
+     that do support :focus-visible */
+  outline: none;
+}
+
+.subscribe__button:focus-visible {
+  /* for browsers that do support :focus-visible */
+  outline: 3px dotted white;
+}
+
 /* WHY US SECTION */
 
 .why-us {
